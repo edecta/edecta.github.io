@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://edecta.github.io/sitemap.html.gz
+Sitemap: https://edecta.github.io/app/sitemap.html.gz
+Sitemap: https://edecta.github.io/assets/sitemap.html.gz
+Sitemap: https://edecta.github.io/css/sitemap.html.gz
+Sitemap: https://edecta.github.io/includes/sitemap.html.gz
+Sitemap: https://edecta.github.io/item/sitemap.html.gz
+Sitemap: https://edecta.github.io/src/sitemap.html.gz
